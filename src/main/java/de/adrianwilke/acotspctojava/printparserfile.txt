@@ -1,0 +1,1 @@
+	 System.out.println("\n Best Solution in try %ld is %ld\n", ntry, best_so_far_ant.tour_length);
